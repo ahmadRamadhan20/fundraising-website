@@ -16,8 +16,7 @@ export default function IndexPage() {
     <ThemeProvider theme={theme}>
       <Layout>
         <SEO
-          title="Startup Online Fundraising Landing"
-          description="Collection of free top of the line startup landing templates built using react/ next js. Free to download, simply edit and deploy! Updated weekly!"
+          title= "Fundraising Website - Ahmad Ramadhan"
         />
         <Banner />
         <Services />
